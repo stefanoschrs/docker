@@ -7,6 +7,7 @@
 - cordova 7.0.1
 
 ### Run
+```
 docker run \
   --rm \
   -ti \
@@ -14,7 +15,8 @@ docker run \
   -p 8100:8100 \
   -p 35729:35729 \
   -v /dev/bus/usb:/dev/bus/usb \
+  -v ~/.gradle:/root/.gradle \
   -v $PWD:/app \
   stefanoschrs/ionic:latest \
   /bin/bash
-  
+```
