@@ -1,6 +1,6 @@
 # Docker Images
 
-#### Usage: `./build ${image}`
+#### Usage: `./build.sh ${image}`
 #### Available Images: `ionic`, `docker`, `testrail`
 
 [![Ionic Framework Logo](./ionic/ionic-logo.jpg)](./ionic) [![Dropbox CLI](./dropbox/dropbox-logo.jpg)](./dropbox) [![Testrail](./testrail/testrail-logo.png)](./testrail)
