@@ -1,5 +1,6 @@
 # Docker Images
 
-[![Ionic Framework Logo](./ionic/ionic-logo.jpg)](./ionic)
+#### Usage: `./build ${image}`
+#### Available Images: `ionic`, `docker`
 
-[![Dropbox CLI](./dropbox/dropbox-logo.jpg)](./dropbox)
+[![Ionic Framework Logo](./ionic/ionic-logo.jpg)](./ionic) [![Dropbox CLI](./dropbox/dropbox-logo.jpg)](./dropbox)
